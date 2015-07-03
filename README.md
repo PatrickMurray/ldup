@@ -32,11 +32,3 @@ Evaluates all non-hidden files in the user's current directory and subdirectorie
 `ldup -r --hidden ~`
 
 Examines the user's home directory and all subsequent subdirectories, regardless of whether any directories or files are intend to be hidden.# ldup
-# ldup
-# ldup
-# ldup
-# ldup
-# ldup
-# ldup
-# ldup
-# ldup
